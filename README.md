@@ -1,10 +1,2 @@
 # Rocket League Tournament Cup Statistics
-A statistical analysis of people opening Rocket League Tournament Cups to predict the probability of drops.
-
-# Contribution
-Contributions are always welcomed!
-
-Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for how you can get started.
-
-# License
-The License for this repository can be found at [LICENSE](./LICENSE).
+This was a project that I did back in high school. It was all done in google sheets. [Rocket League Tournament cup Statistics](https://docs.google.com/spreadsheets/d/1XQqc1ifU6X6KuMa1nTLUFQk6xNBQ6SCVkRi0rp19zYY/edit?gid=0#gid=0)
